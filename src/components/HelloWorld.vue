@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import benduren from '../assets/benduren.png'
+import benduren from '../assets/bro-durov.png'
 import placeholder from '../assets/placeholder.jpg'
 
 defineProps<{ msg: string }>()
